@@ -1,3 +1,7 @@
+line added by main
+
 super cool login implementation
 
 something new
+
+another line added by main
